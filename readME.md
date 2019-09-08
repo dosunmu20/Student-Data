@@ -1,0 +1,1 @@
+This program creates a simple console type database which allows students to enroll for courses and pay at for each course at cost of N3000 per course.
