@@ -65,7 +65,7 @@ public class StudentDatabase {
   } 
     
     private void showBalance(){
-        System.out.println("Your tuition balance is N" +balance);
+        System.out.println("\nYour tuition balance is N" +balance);
     }
     public void payTuition(){
         showBalance();
